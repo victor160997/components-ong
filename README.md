@@ -4,7 +4,7 @@ Este repositório tem como objetivo fornecer uma base de componentes reutilizáv
 
 ## 📦 Componentes disponíveis
 
-- [AuthProvider (Firebase Auth Context)](./src/components/AuthProvider/README.md)
+- [AuthProvider (Firebase Auth Context)](./src/components/AuthProvider/readme.md)
 
 ## 🛠️ Como usar
 
