@@ -5,6 +5,8 @@ Este repositório tem como objetivo fornecer uma base de componentes reutilizáv
 ## 📦 Componentes disponíveis
 
 - [AuthProvider (Firebase Auth Context)](./src/components/AuthProvider/readme.md)
+- [Select - Radix UI (Firebase Auth Context)](./src/components/ui/select/select.md)
+- [Toast - Radix UI (Firebase Auth Context)](./src/components/ui/toast/toast.md)
 
 ## 🛠️ Como usar
 
